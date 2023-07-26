@@ -1,0 +1,38 @@
+{
+  "name": "aoi.wm",
+  "version": "1.0.0",
+  "description": "A simple package for watermarking images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoi.wm",
+    "watermark",
+    "watermark",
+    "images",
+    "aoi.js",
+    "akarui",
+    "asheyxd",
+    "ashey",
+    "aumansh"
+  ],
+  "dependencies": {
+    "aoi.js": "^6.1.1"
+  },
+  "author": "AsheyXD (aumanshk@gmail.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notashleel/aoi.wm/packages.git"
+  },
+  "peerDependencies": {
+    "canvas": "2.10.1",
+    "imgbb-uploader": "1.5.0",
+    "sharp": "0.31.1"
+  },
+  "bugs": {
+    "url": "https://github.com/notashleel/aoi.wm/packages/issues"
+  },
+  "homepage": "https://github.com/notashleel/aoi.wm/packages#readme"
+}
