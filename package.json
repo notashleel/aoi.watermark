@@ -1,5 +1,5 @@
 {
-  "name": "aoi.wm",
+  "name": "aoi.watermark",
   "version": "1.0.0",
   "description": "A simple package for watermarking images",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "aoi.wm",
+    "aoi.watermark",
     "watermark",
     "watermark",
     "images",
@@ -24,7 +24,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notashleel/aoi.wm/packages.git"
+    "url": "git+https://github.com/notashleel/aoi.watermark/packages.git"
   },
   "peerDependencies": {
     "canvas": "2.10.1",
@@ -32,7 +32,7 @@
     "sharp": "0.31.1"
   },
   "bugs": {
-    "url": "https://github.com/notashleel/aoi.wm/packages/issues"
+    "url": "https://github.com/notashleel/aoi.watermark/packages/issues"
   },
-  "homepage": "https://github.com/notashleel/aoi.wm/packages#readme"
+  "homepage": "https://github.com/notashleel/aoi.watermark/packages#readme"
 }

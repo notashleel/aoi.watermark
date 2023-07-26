@@ -1,7 +1,7 @@
-# aoi.wm
+# aoi.watermark
 ___
 ##### 🌟 This is a port of [DevilsCord](https://www.npmjs.com/package/devilscord) for [aoi.js](https://www.npmjs.com/package/aoi.js).
-_aoi.wm is a simple package for watermarking images for people using aoi.js!_
+_aoi.watermark is a simple package for watermarking images for people using aoi.js!_
 
 
 ## index.js:
@@ -21,7 +21,7 @@ const bot = new aoijs.AoiClient({
     ]
 });
 
-+ require('./node_modules/aoi.wm/src/func.js')(bot)
++ require('./node_modules/aoi.watermark/src/func.js')(bot)
 ```
 
 ***Function Usage:***

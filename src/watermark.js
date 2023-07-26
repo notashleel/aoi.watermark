@@ -18,9 +18,9 @@ class Watermark {
       if(erreturn==true)
       {
       if(wext!='.png' && wext!='.jpg' && wext!='.jpeg')
-      console.log('Error: Unsupported Watermark File Format!\naoi.wm: The provided watermark image('+water+') is not supported!\nVisit https://www.npmjs.com/package/aoi.wm to learn about latest file formats(.jpeg, .jpeg, .png, .webp)!')
+      console.log('Error: Unsupported Watermark File Format!\naoi.watermark: The provided watermark image('+water+') is not supported!\nVisit https://www.npmjs.com/package/aoi.watermark to learn about latest file formats(.jpeg, .jpeg, .png, .webp)!')
       if(bgext!='.png' && bgext!='.jpg' && bgext!='.jpeg')
-      console.log('Error: Unsupported Image File Format!\naoi.wm: The provided watermark image('+bg+') is not supported!\nVisit https://www.npmjs.com/package/aoi.wm to learn about latest file formats(.jpeg, .jpg, .png)!')
+      console.log('Error: Unsupported Image File Format!\naoi.watermark: The provided watermark image('+bg+') is not supported!\nVisit https://www.npmjs.com/package/aoi.watermark to learn about latest file formats(.jpeg, .jpg, .png)!')
       }
       if(wext!='.png' && wext!='.jpg' && wext!='.jpeg')
       {return "UNSUPPORTED_WATERMARK_TYPE";}
